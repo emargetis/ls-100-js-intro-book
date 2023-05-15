@@ -1,0 +1,5 @@
+substring (Prototype) = string
+create (Static) = object
+fromCharCode (Static) = string
+slice (Prototype) = Array, String
+toString (Prototype) = String, Number, Array, Object

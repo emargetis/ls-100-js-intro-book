@@ -1,0 +1,1 @@
+No it won't produce an error because constants also have block scope. It will print bar.

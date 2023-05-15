@@ -1,0 +1,2 @@
+bar because the foo on line 3 is block scoped and inaccessible by line 6 print statement. 
+However, it "shadows" the foo from line one within the block so if we were to print foo within the block then it would pring qux.

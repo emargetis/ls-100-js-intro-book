@@ -1,0 +1,1 @@
+No, it will simply return a value of undefined. So it will print undefined.

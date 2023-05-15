@@ -1,0 +1,1 @@
+We get an error at line 6 because we can't reassign a constant to a new value

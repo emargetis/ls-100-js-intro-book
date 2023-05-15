@@ -1,0 +1,1 @@
+It treats the + as string concatenation because we have a string operad in the expression. The 10 is implicity coerced into a string data type.

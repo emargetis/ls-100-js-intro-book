@@ -1,0 +1,5 @@
+index
+lazyDog
+operand2
+
+CatName -> constructors can use PascalCase too

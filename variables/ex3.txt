@@ -1,0 +1,1 @@
+Undefined becuase foo is declared and initialized in a block scope separate from the print statement
