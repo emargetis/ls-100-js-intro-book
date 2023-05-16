@@ -1,0 +1,7 @@
+No they are different variables. 
+
+The ones on line 1&2 are local variables because they are parameters for the function. 
+They will shadow the other left and right within the local scope of the function.
+
+The ones on line 10-12 are global variables and will be accessible anywhere in the program after they are declared, 
+including being used as arguments when calling the multiply function on line 12.

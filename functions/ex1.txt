@@ -1,0 +1,2 @@
+1 because within the function, the declaration and initialization of bar shadows the global bar within the function instead of reassigning the value of bar.
+When we call console.log(bar) we refer back to the original bar from line 1. 

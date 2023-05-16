@@ -1,0 +1,1 @@
+It does not log anything due to the return statement on line 3 which causes the function to return 'undefined' and terminate.

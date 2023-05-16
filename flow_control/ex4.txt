@@ -1,0 +1,6 @@
+Product2
+Product not found
+
+It continues down the switch statement because it falls through the statments without breaks
+
+WRONG - I missed Product3 because I didn't realize that all subsequent cases are executed after we find just 1 that is true 

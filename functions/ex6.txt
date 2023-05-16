@@ -1,0 +1,9 @@
+The function arguments = 2, 3, 4
+The function body =   let result = num1 * num2 * num3;
+                      return result;
+The function declaration = function multiplyNumbers(num1, num2, num3) {body, see line above}
+The function invocation = multiplyNumbers(2, 3, 4);
+The function name = multiplyNumbers
+The function parameters = num1, num2, num3
+The function return value = result which should be the result of multplying the 3 parameters
+*The names of all variables = multiplyNumbers, num1, num2, num3, result, product

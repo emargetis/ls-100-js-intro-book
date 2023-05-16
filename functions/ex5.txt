@@ -1,0 +1,1 @@
+Nothing because we don't have a log statement anywhere, but the function does return the string 'Yipeee!!!!'
